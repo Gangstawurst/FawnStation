@@ -243,7 +243,7 @@ CHECK_RANDOMIZER
 RULESURL https://docs.google.com/document/d/1QT-08iS1UgiCkdNkpjjPXGekfof6y0EUDnodGZ0Zqak/edit?usp=sharing
 
 ## Github address
-# GITHUBURL https://www.github.com/tgstation/tgstation
+GITHUBURL https://www.github.com/FawnStation/FawnStation
 
 ## Discord bot command prefix, if the discord bot is used
 # DISCORDBOTCOMMANDPREFIX ?
