@@ -1,0 +1,9 @@
+<!-- Most valid html will work in here, excluding images. -->
+
+<h1>Welcome to Fawnstation 13!</h1>
+<p>Please, read the rules:</p>
+<a href="https://docs.google.com/document/d/1QT-08iS1UgiCkdNkpjjPXGekfof6y0EUDnodGZ0Zqak/edit?usp=sharing">Click me!</a>
+
+<br>
+
+<i>This server is running a /tg/station 13 Git build.</i>
